@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contacts LiveData</string>
+    <string name="title_contact_detail">Contact Detail</string>
+</resources>
